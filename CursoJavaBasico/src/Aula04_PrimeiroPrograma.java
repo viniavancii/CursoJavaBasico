@@ -4,7 +4,7 @@ public class Aula04_PrimeiroPrograma {
 	public static void main(String[] args) {
 		System.out.println("Olá mundo"); // IMPRIME NA TELA
 
-		int idade1 = 3;
+		int idade1 = 2;
 		int idade2 = 4;
 		int resul;
 
